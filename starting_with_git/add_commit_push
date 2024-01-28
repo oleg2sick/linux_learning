@@ -24,3 +24,5 @@ git branch -d branch_name - удаление ветки
 git checkout branch_name  - переключение между ветками
 
 git merge branch_name - для слияния отдельной ветки с веткой main
+
+#testing smthing
