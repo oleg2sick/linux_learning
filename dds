@@ -1,0 +1,23 @@
+[33mcommit cec524cd7a9a35338b7aa70af9d8d924ed3a8bf7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/test_branch[m[33m, [m[1;32mtest_branch[m[33m)[m
+Author: oleg2sick <gulanoleg123@gmail.com>
+Date:   Sun Jan 28 14:27:01 2024 +0300
+
+    delete swp file
+
+[33mcommit bb013782c0a781fe4b269688dd19bbea5c45a32b[m
+Author: oleg2sick <gulanoleg123@gmail.com>
+Date:   Sun Jan 28 14:19:57 2024 +0300
+
+    начал заполнение теории по работе с гитом, поработал с vim редактором
+
+[33mcommit cd25a7d508f6425f0efa1773f008397ba325879a[m
+Author: oleg2sick <gulanoleg123@gmail.com>
+Date:   Sun Jan 28 13:47:40 2024 +0300
+
+    создал vim файл
+
+[33mcommit 60c383d6e9b4d60ee6eacc6285a721fa0239b7ba[m[33m ([m[1;31morigin/testing[m[33m)[m
+Author: oleg2sick <126007103+oleg2sick@users.noreply.github.com>
+Date:   Sun Jan 28 12:05:55 2024 +0300
+
+    Initial commit
